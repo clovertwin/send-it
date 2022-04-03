@@ -1,5 +1,5 @@
 # send-it
 
-Small real-time chat applicatin I built from a youtube tutorial for practice.
+##Small real-time chat applicatin.
 
-the site is live 👉 [here](https://gregarious-phoenix-9b68a5.netlify.app)
+##the site is live 👉 [here](https://gregarious-phoenix-9b68a5.netlify.app)
